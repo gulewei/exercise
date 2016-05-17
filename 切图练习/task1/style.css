@@ -1,0 +1,182 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 892px;
+	height: 1386px;
+	margin: 0 auto;
+}
+
+header {
+	border-bottom: 2px solid #938e8c;
+	height: 61px;
+	font-size: 12px;
+	font-family: "黑体";
+}
+
+.head-title {
+	width: 110px;
+	background: #d45d5c;
+	float: left;
+	color: #fff;
+	height: 61px;
+	line-height: 106px;
+	text-indent: 5px;
+}
+
+.head-date {
+	float: right;
+	color: #d45d5c;
+	margin-top: 45px;
+}
+
+.banner {
+	margin-top: 35px;
+	height: 301px;
+}
+
+.green {
+	width: 191px;
+	height: 301px;
+	float: left;
+	background: rgba(66,140,89,0.5);
+}
+.pink {
+	width: 191px;
+	height: 301px;
+	float: right;
+	background: rgba(204,118,128,0.5);
+}
+
+.banner-image {
+	float: left;
+	width: 641px;
+	background: url("images/p1.gif") no-repeat;
+}
+
+.banner-info {
+	width:203px;
+	border-top: 2px solid #cc8091;
+	float: right;
+}
+
+h2 {
+	font-family: "微软雅黑";
+	font-size: 24px;
+	color: #000;
+	text-decoration: underline;
+}
+h2 span {
+	font-variant: small-caps;
+}
+
+.about {
+	font-size: 12px;
+	color: #676767;
+	font-family: "楷体";
+}
+
+.big-number {
+	font-size: 116px;
+	color: #75b86b;
+	font-family: "微软雅黑";
+	font-style: italic;
+}
+
+.banner-info span{
+	font-family: "微软雅黑";
+	color: #cc8091;
+}
+
+.middle-number {
+	font-size: 55px;
+	float: left;
+}
+.small-number {
+	float: left;
+	margin-top: 14px;
+	margin-left: 5px;
+}
+.small-css {
+	font-size: 21px;
+}
+.small-ccc {
+	font-size: 12px;
+}
+
+.articles {
+	margin-top: 35px;
+	height: 218px;
+
+}
+article{
+	float: left;
+}
+.articles p {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 16px;
+	color: #767777;
+}
+.articles h2 {
+	font-family: "微软雅黑";
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.article1 {
+	width: 230px;
+	margin-right: 23px;
+}
+.article1 h2{
+	color: #418c59;
+}
+.article2 {
+	width: 204px;
+	margin-right: 29px;
+}
+.article2 h2 {
+	color: #d2994f;
+}
+.article3 {
+	width: 140px;
+}
+.article3 h2 {
+	color: #cc7680;
+}
+.articles li {
+	list-style: none;
+	font-size: 12px;
+	color: #231815;
+	line-height: 16px;	
+}
+.articles li span {
+	color: #cd4a48;
+	font-style: italic;
+}
+.articles ul {
+	margin-top: 16px;
+}
+
+.bottom {
+	margin-top: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
